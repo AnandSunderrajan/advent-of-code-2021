@@ -9,5 +9,5 @@ Each solution will have a detailed explanation within it. Direct links to specif
  - [Day 2: Dive](/Day2/Dive.ipynb)
  - [Day 3: Binary Diagnostic](/Day3/BinaryDiagnostic.ipynb)
  - [Day 4: Giant Squid](/Day4/GiantSquid.ipynb)
- - [Day 5: HydrothermalVenture](/Day5/HydrothermalVenture.ipynb)
-
+ - [Day 5: Hydrothermal Venture](/Day5/HydrothermalVenture.ipynb)
+ - [Day 5: Lantern Fish](/Day6/Lanternfish.ipynb)
